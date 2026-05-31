@@ -1,127 +1,102 @@
 <div align="center">
 
-# 👋 Hi, I'm Frank Mwalusaka
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00B8D4&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Founder+of+Student+Life;Building+Technology+for+Students;Creating+The+Future+of+Campus+Networking" />
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00b8d4&style=for-the-badge" />
-
-</div>
-
----
-
-# 🚀 About Me
-
-```yaml
-Name: Frank Mwalusaka
-Location: Zambia 🇿🇲
-Role: Full Stack Developer
-Current Project: Student Life
-Mission: Connecting Students Through Technology
-Focus:
-  - Web Development
-  - SaaS Applications
-  - Social Networks
-  - Modern UI/UX
-```
-
----
-
 # 🎓 Student Life
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00B8D4&center=true&vCenter=true&width=1000&lines=Student+Life;A+Social+Network+Built+For+Students;Connect+%E2%80%A2+Share+%E2%80%A2+Grow;The+Future+of+Campus+Networking" />
 
-### A Social Network Built For Students
+![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/Student-Life?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/Student-Life?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/Student-Life?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/Student-Life?style=for-the-badge)
 
 </div>
 
-Student Life is a modern university-focused social networking platform where students can:
+---
 
-✨ Connect
+# 🚀 About Student Life
 
-✨ Collaborate
+Student Life is a modern social networking platform designed exclusively for university students.
 
-✨ Share Resources
-
-✨ Join Communities
-
-✨ Build Networks
-
-✨ Grow Together
+The platform creates a digital campus where students can connect, collaborate, share resources, join communities, build friendships, and grow academically and professionally.
 
 ---
 
-# 🌟 Core Features
+# ✨ Features
 
-<table>
-<tr>
-<td>
+### 👤 Student Profiles
 
-### 👥 Social
+* Personalized student profiles
+* Academic information
+* Skills and interests
 
-* Student Profiles
-* Follow System
-* News Feed
-* Likes & Comments
+### 🏠 Smart Feed
 
-</td>
-<td>
+* Dynamic content feed
+* Post interactions
+* Trending discussions
 
-### 💬 Communication
+### 💬 Messaging
 
-* Real-time Messaging
+* Direct messaging
+* Real-time communication
 * Notifications
-* Community Chats
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📚 Academic
-
-* Resource Sharing
-* Study Materials
-* Collaboration
-
-</td>
-<td>
 
 ### 🌐 Communities
 
-* Program-Based Groups
-* Student Clubs
-* Campus Discussions
+* Program-based communities
+* Student clubs
+* Academic groups
 
-</td>
-</tr>
-</table>
+### 📚 Resource Sharing
+
+* Upload study materials
+* Share notes
+* Academic collaboration
+
+### 🔍 Global Search
+
+Search across:
+
+* Students
+* Posts
+* Communities
+* Resources
 
 ---
 
 # 🛠 Tech Stack
 
-<div align="center">
-
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+* Node.js
+* Prisma ORM
+* PostgreSQL
+* NextAuth
 
-</div>
+### Deployment
+
+* Vercel
+* GitHub
 
 ---
 
-# 📊 GitHub Analytics
+# 🎯 Vision
+
+> Building the largest digital ecosystem for university students.
+
+Student Life aims to connect students from different universities into one collaborative platform where learning, networking, and social interaction happen seamlessly.
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -143,26 +118,6 @@ Student Life is a modern university-focused social networking platform where stu
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4"/>
-
-</div>
-
----
-
 # 📈 Activity Graph
 
 <div align="center">
@@ -173,34 +128,85 @@ Student Life is a modern university-focused social networking platform where stu
 
 ---
 
-# 🎯 2026 Goals
+# 🌟 Platform Highlights
 
-* 🚀 Launch Student Life
-* 📱 Build Mobile Application
-* 🌍 Reach Multiple Universities
-* 🤖 Integrate AI Features
-* 👥 Grow Student Community
-* 💼 Launch Student Marketplace
+✅ Student Networking
+
+✅ Community Building
+
+✅ Resource Sharing
+
+✅ Real-Time Messaging
+
+✅ Program-Based Access
+
+✅ Responsive Design
+
+✅ Secure Authentication
+
+✅ Modern User Experience
 
 ---
 
-# 📫 Connect With Me
+# 🗺️ Roadmap
 
-<p align="center">
+* [x] Student Authentication
+* [x] Student Profiles
+* [x] Social Feed
+* [x] Messaging System
+* [x] Communities
+* [x] Resource Sharing
+* [ ] Mobile Application
+* [ ] AI Study Assistant
+* [ ] Student Marketplace
+* [ ] Campus Events
+* [ ] Internship Hub
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+---
+
+# 📸 Screenshots
+
+## Home Feed
+
+Add screenshot here
+
+## Student Profile
+
+Add screenshot here
+
+## Communities
+
+Add screenshot here
+
+## Messaging
+
+Add screenshot here
+
+---
+
+# 👨‍💻 Founder
+
+## Frank Mwalusaka
+
+Founder & Full Stack Developer
+
+Passionate about building technology that empowers students and transforms campus life.
+
+---
+
+# 📫 Contact
+
+<div align="center">
+
+<a href="mailto:frankmwalu04@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://wa.me/260978277538">
+<img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+</div>
 
 ---
 
@@ -210,6 +216,8 @@ Student Life is a modern university-focused social networking platform where stu
 
 ### Connect • Share • Grow
 
-⭐ Building the future of student networking.
+⭐ Star this repository if you like the project.
+
+Built with ❤️ by Frank Mwalusaka
 
 </div>

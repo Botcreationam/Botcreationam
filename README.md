@@ -4,10 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00B8D4&center=true&vCenter=true&width=1000&lines=Student+Life;A+Social+Network+Built+For+Students;Connect+%E2%80%A2+Share+%E2%80%A2+Grow;The+Future+of+Campus+Networking" />
 
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/Student-Life?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/Student-Life?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/Student-Life?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/Student-Life?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/Botcreationam/Student-Life?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Botcreationam/Student-Life?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Botcreationam/Student-Life?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/Botcreationam/Student-Life?style=for-the-badge)
 
 </div>
 
@@ -100,9 +100,9 @@ Student Life aims to connect students from different universities into one colla
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Botcreationam&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botcreationam&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -112,7 +112,7 @@ Student Life aims to connect students from different universities into one colla
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Botcreationam&theme=tokyonight"/>
 
 </div>
 
@@ -122,7 +122,7 @@ Student Life aims to connect students from different universities into one colla
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Botcreationam&theme=tokyo-night"/>
 
 </div>
 

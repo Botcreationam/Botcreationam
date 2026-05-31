@@ -92,7 +92,7 @@ Search across:
 
 > Building the largest digital ecosystem for university students.
 
-Student Life aims to connect students from different universities into one collaborative platform where learning, networking, and social interaction happen seamlessly.
+Student Life aims to connect students from different universities into one collaborative platform where learning, networking, and social interaction happen seamlessly mayami
 
 ---
 

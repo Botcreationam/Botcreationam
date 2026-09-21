@@ -80,3 +80,121 @@ LEARN
 DISCOVER
    ↓
 GROW
+UNIVO starts with students in Zambia with a long-term vision of expanding beyond Zambia.
+
+✨ Features
+<table> <tr> <td width="50%">
+📱 Social Feed
+Create posts
+Upload images
+Upload supported videos
+Like posts
+React to posts
+Comment
+Reply to comments
+Share
+Repost
+Save posts
+Edit own posts
+Delete own posts
+Report content
+Follow students
+</td> <td width="50%">
+👥 Communities
+University communities
+Course communities
+Student groups
+Clubs
+Community discussions
+Community posts
+Community discovery
+Institution-based communities
+Program-based communities
+</td> </tr> <tr> <td>
+💬 Messaging
+Private messaging
+Real-time conversations
+Media sharing
+Voice notes
+Online status
+Message deletion
+Conversation management
+Notifications
+Read status
+</td> <td>
+🤖 UNIVO Study AI
+Ask academic questions
+Explain difficult concepts
+Summarize information
+Study assistance
+Document analysis
+Supported image analysis
+Conversation history
+New conversations
+AI-powered study support
+</td> </tr> <tr> <td>
+📚 Resources
+Academic resources
+Books
+Student materials
+Resource discovery
+Document previews
+Protected downloads
+Resource management
+</td> <td>
+🏠 Accommodation
+Accommodation listings
+Student housing
+Housing discovery
+Listing management
+Property photos
+Accommodation information
+</td> </tr> <tr> <td>
+👥 Roommate Finder
+Find potential roommates
+Create roommate listings
+Manage listings
+View roommate information
+Connect with other students
+</td> <td>
+🛒 Student Marketplace
+Buy and sell
+Student listings
+Product photos
+Search
+Discovery
+Pricing in Zambian Kwacha
+Listing management
+Report listings
+</td> </tr> <tr> <td>
+📅 Events
+Discover events
+Student activities
+Event information
+Community events
+Event discovery
+</td> <td>
+🔔 Notifications
+Messages
+Reactions
+Comments
+Follows
+Community activity
+Academic reminders
+Platform activity
+</td> </tr> <tr> <td>
+🎓 Student Profiles
+Student profiles
+Interests
+Followers
+Following
+Communities
+Personal information
+Student discovery
+</td> <td>
+🤝 Peer Help
+Student support
+Help requests
+Community assistance
+Moderated support
+</td> </tr> </table>

@@ -1,12 +1,12 @@
 <div align="center">
 
-# UNIVO 🇿🇲
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B63CE,100:111827&height=240&section=header&text=UNIVO&fontSize=76&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Connect%20%E2%80%A2%20Learn%20%E2%80%A2%20Grow&descSize=24&descAlignY=62&descColor=ffffff" width="100%" alt="UNIVO – Connect, Learn, Grow">
 
-### Connect • Learn • Grow.
+<h3>A social platform built for university students in Zambia 🇿🇲</h3>
 
-**The social platform built for university students in Zambia.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0B63CE&center=true&vCenter=true&width=750&lines=Built+for+students+in+Zambia;Connect+with+your+student+community;Learn%2C+share+and+discover+opportunities;The+future+of+student+life+is+here." alt="UNIVO animated introduction">
 
-<br>
+<br><br>
 
 <a href="https://studentlife.tech">
   <img src="https://img.shields.io/badge/🌐%20Website-studentlife.tech-0B63CE?style=for-the-badge" alt="UNIVO Website">
@@ -23,15 +23,18 @@
 <img src="https://img.shields.io/badge/Status-Active-0B63CE?style=flat-square" alt="Project Status">
 <img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android-111827?style=flat-square" alt="Platforms">
 <img src="https://img.shields.io/badge/Built%20with-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Built with Flutter">
+<img src="https://img.shields.io/github/stars/Botcreationam/UNIVO?style=flat-square&color=0B63CE&logo=github" alt="GitHub stars">
+<img src="https://img.shields.io/github/last-commit/Botcreationam/UNIVO?style=flat-square&color=111827" alt="Last commit">
+<img src="https://img.shields.io/github/issues/Botcreationam/UNIVO?style=flat-square&color=0B63CE" alt="Open issues">
 <img src="https://img.shields.io/badge/Built%20in-Zambia%20🇿🇲-0B63CE?style=flat-square" alt="Built in Zambia">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0B63CE&center=true&vCenter=true&width=750&lines=Built+for+students+in+Zambia;Connect+with+your+student+community;Learn%2C+share+and+discover+opportunities;The+future+of+student+life+is+here." alt="UNIVO animated introduction">
+<img src=".github/assets/features-ticker.svg" width="100%" alt="Social Feed · Communities · Messaging · Study AI · Resources · Accommodation · Roommate Finder · Marketplace · Events · Notifications · Peer Help">
 
 </div>
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 📑 Table of Contents
 
@@ -52,7 +55,7 @@
 - [Support](#-support)
 - [License](#-license)
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 🚀 About
 
@@ -69,7 +72,7 @@ UNIVO is built for:
 
 > **Connect • Learn • Grow.**
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 🌍 Vision
 
@@ -77,13 +80,11 @@ UNIVO aims to become one of the leading student-focused digital platforms in Zam
 
 The goal is not to build just another social media app. The goal is to build a **digital ecosystem around student life**.
 
-```text
-CONNECT  →  COMMUNICATE  →  LEARN  →  DISCOVER  →  GROW
-```
+<p align="center"><img src=".github/assets/journey.svg" width="100%" alt="CONNECT → COMMUNICATE → LEARN → DISCOVER → GROW"></p>
 
 The journey starts with students in Zambia 🇿🇲, with a long-term vision of expanding to students everywhere.
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## ✨ Features
 
@@ -102,12 +103,14 @@ The journey starts with students in Zambia 🇿🇲, with a long-term vision of 
 | 🎓 **Student Profiles** | Interests · Followers and following · Communities · Student discovery |
 | 🆘 **Peer Help** | Help requests · Community assistance · Moderated student support |
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 🤖 UNIVO Study AI
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=0B63CE&center=true&vCenter=true&width=650&lines=Your+AI+Study+Companion;Ask.+Understand.+Learn.;Study+Smarter+with+UNIVO." alt="UNIVO Study AI animation">
+  <br><br>
+  <img src=".github/assets/study-ai-chat.svg" width="700" alt="Animated preview: a student asks Study AI to explain photosynthesis and receives a simple answer">
 </div>
 
 <br>
@@ -122,7 +125,7 @@ UNIVO Study AI helps students understand academic content and study more effecti
 
 **Try it:** [studentlife.tech/study](https://studentlife.tech/study)
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 📥 Downloads & Links
 
@@ -140,7 +143,7 @@ UNIVO Study AI helps students understand academic content and study more effecti
 
 > **Note:** Only install the Android APK from the official link above. Enable installation from unknown sources only for trusted files.
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 🛠️ Technology Stack
 
@@ -158,7 +161,7 @@ UNIVO Study AI helps students understand academic content and study more effecti
 | **Hosting** | Vercel |
 | **Tooling** | Git · GitHub |
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 🏗️ Architecture
 
@@ -175,7 +178,7 @@ flowchart TD
     D --> G["Authentication"]
 ```
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## ⚙️ Getting Started
 
@@ -221,7 +224,7 @@ flutter devices
 flutter run
 ```
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 📦 Building for Release
 
@@ -241,7 +244,7 @@ flutter build appbundle --release
 
 Output: `build/app/outputs/bundle/release/`
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 🧪 Testing
 
@@ -263,7 +266,7 @@ Before every production release, manually verify the core user flows against rea
 | 6 | Messaging | 13 | Study AI |
 | 7 | Notifications | 14 | Logout |
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 🔐 Security
 
@@ -307,22 +310,23 @@ Production builds must not rely on fake API responses, fake data or authenticati
 
 If you discover a security issue, please **do not open a public issue**. Email **studentlifehelpcenter@gmail.com** with the details so it can be addressed responsibly.
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 📂 Project Structure
 
 ```text
 UNIVO/
 ├── android/          # Android platform code
-├── assets/           # Images, fonts and static assets
+├── assets/           # Images, fonts and static app assets
 ├── lib/              # Flutter / Dart application source
 ├── test/             # Automated tests
-├── .github/          # GitHub configuration and workflows
+├── .github/          # GitHub configuration, workflows and README assets
+│   └── assets/       # Animated SVGs used by this README
 ├── pubspec.yaml      # Flutter dependencies and metadata
 └── README.md
 ```
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 🗺️ Roadmap
 
@@ -351,7 +355,7 @@ UNIVO/
 - [ ] Google Play release
 - [ ] Expansion beyond Zambia
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 🤝 Contributing
 
@@ -370,7 +374,7 @@ Fork → Create branch → Make changes → Test → Commit → Pull request
 
 Found a bug or have an idea? [Open an issue](https://github.com/Botcreationam/UNIVO/issues).
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 📞 Support
 
@@ -387,7 +391,7 @@ If you believe in building a student platform for Zambia and beyond:
 - 🤝 Contribute
 - 📢 Help students discover UNIVO
 
----
+<p align="center"><img src=".github/assets/divider.svg" width="100%" alt=""></p>
 
 ## 📄 License
 
@@ -395,9 +399,9 @@ If you believe in building a student platform for Zambia and beyond:
 
 License information will be added here. Until a license is published, all rights are reserved by the project owner.
 
----
-
 <div align="center">
+
+<br>
 
 **Built with ❤️ in Zambia 🇿🇲 — for students, by people who understand student life.**
 
@@ -405,6 +409,6 @@ License information will be added here. Until a license is published, all rights
 
 <br>
 
-<img src="https://img.shields.io/badge/UNIVO-Connect%20•%20Learn%20•%20Grow-0B63CE?style=for-the-badge" alt="UNIVO">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B63CE,100:111827&height=140&section=footer&animation=twinkling" width="100%" alt="">
 
 </div>
